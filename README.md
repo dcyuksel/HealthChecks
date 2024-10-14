@@ -8,3 +8,5 @@ HealthChecks simplifies this process.
 By incorporating health checks, you can easily monitor the status of relevant services. 
 
 This project demonstrates how to create, register, and display health checks.
+
+For further details, please visit the project site.
